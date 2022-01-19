@@ -21,7 +21,7 @@
 
 
 * [**Visual Mode**](https://github.com/MRCardoso/mcvim/blob/main/visual-mode.md)
-* [**abbreviation**](https://github.com/MRCardoso/mcvim/blob/main/abbreviation-mode.mdt)
+* [**abbreviation**](https://github.com/MRCardoso/mcvim/blob/main/abbreviation-mode.md)
 * [**sort**](https://github.com/MRCardoso/mcvim/blob/main/sort-mode.md)
 * [**set**](https://github.com/MRCardoso/mcvim/blob/main/set-mode.md)
 * [**find and replace**](https://github.com/MRCardoso/mcvim/blob/main/find-replace-mode.md)
