@@ -23,7 +23,6 @@
 | **:sort** 		| sort lines Alphabetically |
 | **:N,Nsort** 		| define the range of the ordenation, use ',' to specify the range of the lines |
 | **sort!** 		| define the reverse sort |
-| **:set command** 	| set a configuration |
 | **v** 	    	| Visual Mode       |
 
 ## Visual Mode
@@ -32,11 +31,11 @@
 | -------------: | ------------- |
 | **y**		| copy the selected text 	|
 | **d**		| cut the select text  		|
-| **[shift?]x** | delete from left to right, shift to delete start from right|
+| **x** | (shift opptionally) delete from left to right, shift to delete start from right|
 
 ## Find and replace options
 
-| Find/Replace Mode | Description	|
+| :/find/replace/ Mode | Description	|
 | -----------------: | ------------- |
 | **%** | to search in all lines, you can use a specific line (1), or an interval of lines (1,10) |
 | **g** | in the final replace all occurrences in the line
