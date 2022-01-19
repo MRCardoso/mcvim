@@ -6,3 +6,5 @@
 | **1** | to search in 1 line|
 | **1,10** | to search in an interval of lines from 1 to 10 |
 | **g** | in the final replace all occurrences in the line
+
+[home](https://github.com/MRCardoso/mcvim)
