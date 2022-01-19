@@ -4,3 +4,5 @@
 | -----------------: | ------------- |
 | **alias** | define the alias of the abbreviation |
 | **text** | define the content of the abbreviation |
+
+[home](https://github.com/MRCardoso/mcvim)
