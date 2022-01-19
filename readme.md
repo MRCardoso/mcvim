@@ -57,6 +57,6 @@
 | **visulabell** 	| blink the screen without song warn |
 | **ic** 		| enable ignore case |
 | **noic** 		| enable ignore case |
-| **bg=[dark|light]** 	| change background of editor |
-| **tabstop=[size]** 	| define the amount of space in TAB |
-| **showmatch** 	| display the context of block with ({}, [], ())|
+| **bg=[dark\|light]** 	| change background of editor |
+| **tabstop=size** 	| define the amount of space in TAB |
+| **showmatch** 	    | display the context of block with ({}, [], ())|
