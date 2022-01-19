@@ -1,4 +1,6 @@
-## Find and replace options
+## Find and replace
+
+find and replace the word defined in 'find'
 
 | :s/find/replace/g Mode | Description	|
 | -----------------: | ------------- |
