@@ -9,7 +9,6 @@
 | **ctrl+r**        	| redo  |
 | **u**             	| undo  |
 | **p**             	| paste the clipboard  |
-| **v** 	    	| [Visual Mode](https://github.com/MRCardoso/mcvim/blob/main/visual-mode.md)       |
 | **:wq**		| write and quit |
 | **:x** 		| write and quit |
 | **shift+zz** 		| write and quit |
@@ -18,8 +17,11 @@
 | **:split filename** 	| split screen, open another file(ctrl+ww change between screen) |
 | **/text** 		| search for the word in the current file from top to bottom using 'n' you continue to the next word found |
 | **?text** 		| search for the word in the current file from bottom to top using 'n' you continue to the next word found |
-| **:s/f/r/g** 	| [find and replace the word defined in 'find'](https://github.com/MRCardoso/mcvim/blob/main/find-replace-mode.md) |
 | **:sintax on\|off** 	| enable disable sintax in the current file (must be an extension) |
-| **:ab** 	| [create an abbreviation to use in vim, use the abbreviation and space to replace in the editing](https://github.com/MRCardoso/mcvim/blob/main/abbreviation-mode.md) |
-| **:sort** 		| [sort lines Alphabetically](https://github.com/MRCardoso/mcvim/blob/main/sort-mode.md) |
-| **:set** 	    	| [Set a configuration](https://github.com/MRCardoso/mcvim/blob/main/set-mode.md)       |
+
+
+* [**Visual Mode**](https://github.com/MRCardoso/mcvim/blob/main/visual-mode.md)
+* [**abbreviation:**](https://github.com/MRCardoso/mcvim/blob/main/abbreviation-mode.mdt)
+* [**sort:**](https://github.com/MRCardoso/mcvim/blob/main/sort-mode.md)
+* [**set:**](https://github.com/MRCardoso/mcvim/blob/main/set-mode.md)
+* [**find and replace**](https://github.com/MRCardoso/mcvim/blob/main/find-replace-mode.md)
