@@ -1,4 +1,6 @@
-# Sort Command
+# Sort
+
+sort lines Alphabetically
 
 | :[range]sort[!]  	| Description	|
 | ------------: | ---------- |
